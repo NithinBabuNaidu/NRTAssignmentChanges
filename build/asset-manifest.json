@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NRTAssignmentChanges/static/css/main.a03b57db.chunk.css",
+    "main.js": "/NRTAssignmentChanges/static/js/main.75b87fb8.chunk.js",
+    "main.js.map": "/NRTAssignmentChanges/static/js/main.75b87fb8.chunk.js.map",
+    "runtime-main.js": "/NRTAssignmentChanges/static/js/runtime-main.2d2ea227.js",
+    "runtime-main.js.map": "/NRTAssignmentChanges/static/js/runtime-main.2d2ea227.js.map",
+    "static/js/2.4fa9a5f2.chunk.js": "/NRTAssignmentChanges/static/js/2.4fa9a5f2.chunk.js",
+    "static/js/2.4fa9a5f2.chunk.js.map": "/NRTAssignmentChanges/static/js/2.4fa9a5f2.chunk.js.map",
+    "static/js/3.b5f51ef2.chunk.js": "/NRTAssignmentChanges/static/js/3.b5f51ef2.chunk.js",
+    "static/js/3.b5f51ef2.chunk.js.map": "/NRTAssignmentChanges/static/js/3.b5f51ef2.chunk.js.map",
+    "index.html": "/NRTAssignmentChanges/index.html",
+    "static/css/main.a03b57db.chunk.css.map": "/NRTAssignmentChanges/static/css/main.a03b57db.chunk.css.map",
+    "static/js/2.4fa9a5f2.chunk.js.LICENSE.txt": "/NRTAssignmentChanges/static/js/2.4fa9a5f2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NRTAssignmentChanges/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d2ea227.js",
+    "static/js/2.4fa9a5f2.chunk.js",
+    "static/css/main.a03b57db.chunk.css",
+    "static/js/main.75b87fb8.chunk.js"
+  ]
+}
